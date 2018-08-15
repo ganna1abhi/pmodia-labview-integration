@@ -1,4 +1,4 @@
-# pmodia-labview-integration
+# AD5933-labview-integration
 
 Courtsey Abhishek Gannarapu and Dr. Arda Gozen, Washington State University
 
